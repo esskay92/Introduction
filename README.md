@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything and everything related to data.
 - 🌱 I’m currently learning Information Management with a focus on Data Science and Analytics.
 - 💞️ I’m looking to collaborate on any data science and data analytics projects.
-- 📫 You can reach out to me via siddheshunhavane@gmail.com
+- 📫 You can reach out to me via siddheshunhavane@gmail.com or su45@illinois.edu
 
 <!---
 esskay92/esskay92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
